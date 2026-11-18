@@ -1,0 +1,14 @@
+C:\Users\Igor\RiderProjects\Games\JokenPo\bin\Debug\net10.0\JokenPo.exe
+C:\Users\Igor\RiderProjects\Games\JokenPo\bin\Debug\net10.0\JokenPo.deps.json
+C:\Users\Igor\RiderProjects\Games\JokenPo\bin\Debug\net10.0\JokenPo.runtimeconfig.json
+C:\Users\Igor\RiderProjects\Games\JokenPo\bin\Debug\net10.0\JokenPo.dll
+C:\Users\Igor\RiderProjects\Games\JokenPo\bin\Debug\net10.0\JokenPo.pdb
+C:\Users\Igor\RiderProjects\Games\JokenPo\obj\Debug\net10.0\JokenPo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\RiderProjects\Games\JokenPo\obj\Debug\net10.0\JokenPo.AssemblyInfoInputs.cache
+C:\Users\Igor\RiderProjects\Games\JokenPo\obj\Debug\net10.0\JokenPo.AssemblyInfo.cs
+C:\Users\Igor\RiderProjects\Games\JokenPo\obj\Debug\net10.0\JokenPo.csproj.CoreCompileInputs.cache
+C:\Users\Igor\RiderProjects\Games\JokenPo\obj\Debug\net10.0\JokenPo.dll
+C:\Users\Igor\RiderProjects\Games\JokenPo\obj\Debug\net10.0\refint\JokenPo.dll
+C:\Users\Igor\RiderProjects\Games\JokenPo\obj\Debug\net10.0\JokenPo.pdb
+C:\Users\Igor\RiderProjects\Games\JokenPo\obj\Debug\net10.0\JokenPo.genruntimeconfig.cache
+C:\Users\Igor\RiderProjects\Games\JokenPo\obj\Debug\net10.0\ref\JokenPo.dll
