@@ -1,0 +1,14 @@
+C:\Users\Igor\RiderProjects\Games\JogoDaVelha\obj\Debug\net10.0\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\RiderProjects\Games\JogoDaVelha\obj\Debug\net10.0\JogoDaVelha.AssemblyInfoInputs.cache
+C:\Users\Igor\RiderProjects\Games\JogoDaVelha\obj\Debug\net10.0\JogoDaVelha.AssemblyInfo.cs
+C:\Users\Igor\RiderProjects\Games\JogoDaVelha\obj\Debug\net10.0\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\Igor\RiderProjects\Games\JogoDaVelha\bin\Debug\net10.0\JogoDaVelha.exe
+C:\Users\Igor\RiderProjects\Games\JogoDaVelha\bin\Debug\net10.0\JogoDaVelha.deps.json
+C:\Users\Igor\RiderProjects\Games\JogoDaVelha\bin\Debug\net10.0\JogoDaVelha.runtimeconfig.json
+C:\Users\Igor\RiderProjects\Games\JogoDaVelha\bin\Debug\net10.0\JogoDaVelha.dll
+C:\Users\Igor\RiderProjects\Games\JogoDaVelha\bin\Debug\net10.0\JogoDaVelha.pdb
+C:\Users\Igor\RiderProjects\Games\JogoDaVelha\obj\Debug\net10.0\JogoDaVelha.dll
+C:\Users\Igor\RiderProjects\Games\JogoDaVelha\obj\Debug\net10.0\refint\JogoDaVelha.dll
+C:\Users\Igor\RiderProjects\Games\JogoDaVelha\obj\Debug\net10.0\JogoDaVelha.pdb
+C:\Users\Igor\RiderProjects\Games\JogoDaVelha\obj\Debug\net10.0\JogoDaVelha.genruntimeconfig.cache
+C:\Users\Igor\RiderProjects\Games\JogoDaVelha\obj\Debug\net10.0\ref\JogoDaVelha.dll

@@ -1,0 +1,3 @@
+﻿using JogoDaVelha;
+
+Game.RunGame();
